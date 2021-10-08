@@ -1,0 +1,48 @@
+/*@font-face {
+  font-family;
+}*/
+th {
+  width: 40%;
+  background-color: skyblue;
+  color: black;
+  font-size: 1.3em;
+}
+img#can {
+  width: 180px;
+  height: 220px;
+}
+img#logo {
+  width: 170px;
+  height: 220px;
+}
+td, th {
+  border-style: groove;
+  text-align: center;
+}
+th#thc {
+  background-color: silver;
+}
+td#uno {
+  background-color: blue;
+}
+td#dos {
+  background-color: red;
+}
+td#tres {
+  background-color: orange;
+}
+td#cuatro {
+  background-color: purple;
+}
+td#cinco {
+  background-color: skyblue;
+}
+td#seis {
+  background-color: yellow;
+}
+td#siete {
+  background-color: pink;
+}
+td#carita {
+  background-color: green;
+}
